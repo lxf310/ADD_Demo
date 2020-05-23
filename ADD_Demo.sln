@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteWebApp", "RemoteWebApp\RemoteWebApp.csproj", "{085AF6E0-7012-4245-A69E-F0C31E0A39C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeApp", "NativeApp\NativeApp.csproj", "{77B2448F-F696-411D-AB5F-161AFBD3A363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085AF6E0-7012-4245-A69E-F0C31E0A39C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085AF6E0-7012-4245-A69E-F0C31E0A39C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085AF6E0-7012-4245-A69E-F0C31E0A39C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085AF6E0-7012-4245-A69E-F0C31E0A39C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B2448F-F696-411D-AB5F-161AFBD3A363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B2448F-F696-411D-AB5F-161AFBD3A363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B2448F-F696-411D-AB5F-161AFBD3A363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B2448F-F696-411D-AB5F-161AFBD3A363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D33ED1-EB8B-4F9D-AFAF-0610ECC5D5F2}
+	EndGlobalSection
+EndGlobal

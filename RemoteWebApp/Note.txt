@@ -1,0 +1,3 @@
+﻿Packages:
+1. Microsoft.Owin.Host.SystemWeb
+2. Microsoft.Owin.Security.ActiveDirectory (v1)
