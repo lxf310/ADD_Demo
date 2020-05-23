@@ -32,3 +32,8 @@ To run this demo, you will need:
 1. Create a new AD App registration
 2. Add the created permission in step 1 to it
 3. Upload your [self-signed certificate](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site) to it
+
+# How to enable log4net on Azure web app
+1. Search "kudu" and go to "Advanced Tools"
+2. Go to debug console and select cmd
+3. Create LogFiles\Log4Net\API.log file
